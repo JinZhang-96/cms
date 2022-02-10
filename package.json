@@ -65,7 +65,7 @@
     "html-withimg-loader": "^0.1.16",
     "jest": "^23.6.0",
     "mini-css-extract-plugin": "^0.8.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.9",
     "portfinder": "^1.0.21",
     "postcss-loader": "^3.0.0",
