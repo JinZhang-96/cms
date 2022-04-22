@@ -29,7 +29,7 @@
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
     "bootstrap": "^4.3.1",
-    "fullpage.js": "^3.0.7",
+    "fullpage.js": "^4.0.5",
     "image-webpack-loader": "^6.0.0",
     "jquery": "^3.4.1",
     "mustache": "^3.0.1",
